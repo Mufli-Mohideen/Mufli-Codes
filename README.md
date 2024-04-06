@@ -60,6 +60,12 @@ Welcome to my GitHub profile!
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/MohideenMu69374)
 [![Website](https://img.shields.io/badge/-Website-0088CC?style=flat&logo=google-chrome&logoColor=white)](https://www.muflimohideen.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mufli-Codes)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mufli2mail)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0A0A0A?style=flat&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/mufli_mohideen)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/Mufli_/)
+
+
+
 
 
 <!---
