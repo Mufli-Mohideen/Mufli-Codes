@@ -10,7 +10,14 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I love exploring new technologies and experimenting with different programming languages!
+⚡ Fun fact: I love exploring new technologies and experimenting with different programming languages! 
+
+🎓 I am a Software Engineering Student.
+
+📧 You can also reach me via email at mufli2mail@gmail.com.
+
+🌐 Check out my portfolio website at [www.muflimohideen.com](https://www.muflimohideen.com).
+
 
 ## Languages and Tools
 
