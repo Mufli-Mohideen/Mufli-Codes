@@ -62,7 +62,7 @@
 ## Connect with Me
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
-(https://www.linkedin.com/in/mufli-mohideen-599572242/)[![X Account](https://img.shields.io/badge/-X_Account-1D9BF0?style=for-the-badge&logo=X_Account&logoColor=white)](https://twitter.com/MohideenMu69374)
+- (https://www.linkedin.com/in/mufli-mohideen-599572242/)[![X Account](https://img.shields.io/badge/-X_Account-1D9BF0?style=for-the-badge&logo=X_Account&logoColor=white)](https://twitter.com/MohideenMu69374)
 
 <!---
 Mufli-Codes/Mufli-Codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
