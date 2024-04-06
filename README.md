@@ -26,11 +26,11 @@
 - RESTful APIs
 
 ### Mobile Development
-- ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black) React Native
-- ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) Flutter
-- ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) Swift (iOS Development)
-- ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) Kotlin (Android Development)
-- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) Firebase
+- ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+- ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+- ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Data Analysis
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -49,8 +49,8 @@
 
 ## Connect with Me
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mufli-mohideen-599572242/) 🌐
-- [![X Account](https://img.shields.io/badge/-X_Account-1D9BF0?style=for-the-badge&logo=X_Account&logoColor=white)](https://twitter.com/MohideenMu69374) 💼
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mufli-mohideen-599572242/)
+- [![X Account](https://img.shields.io/badge/-X_Account-1D9BF0?style=for-the-badge&logo=X_Account&logoColor=white)](https://twitter.com/MohideenMu69374)
 
 <!---
 Mufli-Codes/Mufli-Codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
