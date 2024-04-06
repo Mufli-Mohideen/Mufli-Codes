@@ -56,13 +56,20 @@ Welcome to my GitHub profile!
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mufli-mohideen-599572242/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/MohideenMu69374)
-[![Website](https://img.shields.io/badge/-Website-0088CC?style=flat&logo=google-chrome&logoColor=white)](https://www.muflimohideen.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mufli-Codes)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mufli2mail)
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0A0A0A?style=flat&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/mufli_mohideen)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/Mufli_/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&logoWidth=30&logoHeight=30&labelColor=0077B5&color=0077B5&labelBorderRadius=50)](https://www.linkedin.com/in/mufli-mohideen-599572242/)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&logoWidth=30&logoHeight=30&labelColor=1DA1F2&color=1DA1F2&labelBorderRadius=50)](https://twitter.com/MohideenMu69374)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![Website](https://img.shields.io/badge/-Website-0088CC?style=flat&logo=google-chrome&logoColor=white&logoWidth=30&logoHeight=30&labelColor=0088CC&color=0088CC&labelBorderRadius=50)](https://www.muflimohideen.com)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white&logoWidth=30&logoHeight=30&labelColor=181717&color=181717&labelBorderRadius=50)](https://github.com/Mufli-Codes)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white&logoWidth=30&logoHeight=30&labelColor=2EC866&color=2EC866&labelBorderRadius=50)](https://www.hackerrank.com/profile/mufli2mail)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0A0A0A?style=flat&logo=geeksforgeeks&logoColor=white&logoWidth=30&logoHeight=30&labelColor=0A0A0A&color=0A0A0A&labelBorderRadius=50)](https://auth.geeksforgeeks.org/user/mufli_mohideen)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white&logoWidth=30&logoHeight=30&labelColor=FFA116&color=FFA116&labelBorderRadius=50)](https://leetcode.com/Mufli_/)
+
 
 
 
