@@ -1,4 +1,4 @@
-#### Hi there, I'm Mufli Mohideen! 👋
+<h1> Hi there, I'm Mufli Mohideen! 👋</h1>
 Welcome to my GitHub profile!
 
 👀 About Me: I am a dedicated Software Engineering student at the National Institute of Business Management (NIBM) with a passion for web and mobile development, as well as data analysis. I thrive on learning new technologies and experimenting with different programming languages.
