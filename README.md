@@ -50,6 +50,11 @@
 ![Mufli's's GitHub stats](https://github.com/Mufli-Codes)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasadgamage&layout=compact&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mufli_Codes&show_icons=true&locale=en&layout=compact&&theme=tokyonight" alt="Mufli_Codes" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mufli_Codes&show_icons=true&locale=en&theme=tokyonight" alt="Mufli_Codes" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mufli_Codes&&theme=tokyonight" alt="Mufli_Codes" /></p>
 
 
 ## Connect with Me
