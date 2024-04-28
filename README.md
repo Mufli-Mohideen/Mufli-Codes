@@ -10,15 +10,15 @@
 
 <p align="left"> <a href="https://twitter.com/mufli mohideen" target="blank"><img src="https://img.shields.io/twitter/follow/mufli mohideen?logo=twitter&style=for-the-badge" alt="mufli mohideen" /></a> </p>
 
-- 🌱 I’m currently learning **machine learning algorithms and cloud computing technologies to stay at the forefront of innovation in software development.**
+- 🌱 I’m currently learning: **machine learning algorithms and cloud computing technologies to stay at the forefront of innovation in software development.**
 
-- 👨‍💻 All of my projects are available at [www.muflimohideen.com](www.muflimohideen.com)
+- 👨‍💻 All of my projects are available at: [www.muflimohideen.com](www.muflimohideen.com)
 
-- 💬 Ask me about **HTML5, CSS3, React**
+- 💬 Ask me about: **HTML5, CSS3, React**
 
-- 📫 How to reach me **mufli2mail@gmail.com**
+- 📫 How to reach me: **mufli2mail@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZJQOeJ19HnoXptxiAa877DARMHzfCgxc/view?usp=sharing](https://drive.google.com/file/d/1ZJQOeJ19HnoXptxiAa877DARMHzfCgxc/view?usp=sharing)
+- 📄 Know about my experiences: View My CV(https://drive.google.com/file/d/1ZJQOeJ19HnoXptxiAa877DARMHzfCgxc/view?usp=sharing)
 
 - ⚡ Fun fact **love exploring new technologies and pushing the boundaries of what's possible in software development.**
 
