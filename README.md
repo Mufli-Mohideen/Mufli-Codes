@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mufli Mohideen</h1>
 <h3 align="center">Enthusiastic Software Engineer Crafting the Future, One Line of Code at a Time.</h3>
-<img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Coding" align="right" width="400px">
+<p align="center">
+  <img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Coding" width="400px">
+</p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mufli-codes&label=Profile%20views&color=0e75b6&style=flat" alt="mufli-codes" /> </p>
