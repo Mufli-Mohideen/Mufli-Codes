@@ -18,9 +18,9 @@
 
 - 📫 How to reach me: **mufli2mail@gmail.com**
 
-- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1ZJQOeJ19HnoXptxiAa877DARMHzfCgxc/view?usp=sharing">My CV</a>
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1ZJQOeJ19HnoXptxiAa877DARMHzfCgxc/view?usp=sharing">Résumé</a>
 
-- ⚡ Fun fact **love exploring new technologies and pushing the boundaries of what's possible in software development.**
+- ⚡ Fun fact **I love exploring new technologies and pushing the boundaries of what's possible in software development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
